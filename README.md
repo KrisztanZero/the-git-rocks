@@ -1,2 +1,2 @@
 # the-git-rocks
-SI Learn
+# The git is actually rocking.
